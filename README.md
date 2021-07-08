@@ -21,10 +21,10 @@ An experiment font derived from Source Han Sans with modified mapping. 一款基
 
 ## 鳴謝
 - [思源黑体](https://github.com/adobe-fonts/source-han-sans) by Adobe
-- [思源黑体 傳統]（https://github.com/redchenjs/source-han-sans-classic) by [Jack Chen](https://github.com/redchenjs) （技術参考）
+- [思源黑体 傳統](https://github.com/redchenjs/source-han-sans-classic) by [Jack Chen](https://github.com/redchenjs) （技術参考）
 - [源音黑体](https://github.com/MoneMizuno/Genne-Gothic) by [Huán-Syuān](https://github.com/MoneMizuno)（技術参考、旧字形版部分字形参考）
 - [源様黑体](https://github.com/ButTaiwan/genyog-font) by [But Ko](https://github.com/ButTaiwan)（旧字形版部分字形参考）
-- [傳承字形部件檢校表](https://github.com/ichitenfont/inheritedglyphs) 以及其代表字体[一点明体](https://github.com/ichitenfont/I.Ming) by [一点字坊](https://github.com/ichitenfont) （旧字形版参考——僅作参考用途，非字形依拠標準）
+- [傳承字形部件檢校表](https://github.com/ichitenfont/inheritedglyphs) 以及其代表字体 [一点明体](https://github.com/ichitenfont/I.Ming) by [一点字坊](https://github.com/ichitenfont) （旧字形版参考——僅作参考用途，非字形依拠標準）
 - [滙文明朝体](https://zhuanlan.zhihu.com/p/344103391) by 特里爾 （築地体——旧字形版字形参考）
 - [字統網](http://zi.tools)（各地規範字形参考、IVD資料参考）
 - [康熙字典網上版](https://www.kangxizidian.com/)（康熙字典字形——旧字形版主要参考資料·壹）
