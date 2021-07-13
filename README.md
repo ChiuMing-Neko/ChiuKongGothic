@@ -1,5 +1,6 @@
 # 秋空黑體 秋空黑体 秋空ゴチック ChiuKong Gothic
-[繁體中文]() [简体中文]()
+[繁體中文](https://github.com/ChiuMing-Neko/ChiuKongGothic) [简体中文](https://github.com/ChiuMing-Neko/ChiuKongGothic)
+
 An experiment font derived from Source Han Sans with modified mapping. 一款基於思源黑体修改字圖映射関係的實験性字体。 
 ## 簡介
 基於思源黑体的實験性字体修改方案，在不重絵字形的情況下有限制性地将字圖映射到字体已有的字形字圖，且侭可能地加入更多的異体字選擇器（符合Unicode的IVD所定義的字形及編碼）供使用者自由選擇。
