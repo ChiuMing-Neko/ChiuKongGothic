@@ -18,19 +18,22 @@ An experiment font family project with IVS feature derived from Source Han Sans.
 
 ### 漢字印刷體風格
 
-思源黑體所提供給中文世界的分流版或多或少都有楷化的成分——其中以臺灣「正體」中文分流版修改漢字字形情況最爲嚴重。雖然十分接近各地的手寫體楷書字形規範，但有文本排版文字跳動感較大、字符重心不穩等諸多問題，不符合漢字印刷體應有的美感和使用習慣。
+思源黑體所提供給中文世界的分流版或多或少都有楷化的成分——其中以臺灣「正體」中文分流版修改漢字字形情況最爲嚴重。雖然十分接近各地的手寫體楷書字形規範，但有文本排版文字跳動感較大、字符重心不穩等諸多問題，不符合漢字印刷體的審美及使用習慣。
 
 ![diff2](https://github.com/ChiuMing-Neko/ChiuKongGothic/blob/main/images/diff2.png)
 
-### 版本差異
-
-![diff1](https://github.com/ChiuMing-Neko/ChiuKongGothic/blob/main/images/diff1.png)
-
 ### 異體字選擇器
+
 現時中文字體因種種原因並不像日文字體般支持異體字選擇器特性，導致使用者只能被迫使用字體默認字形而無法選擇自己心目中的字形，亦在需要區分字形的場景中只能透過使用不同字體簡單粗暴的方式來實現類似的效果。但透過這種方式進行區分字形具有一定程度上的侷限性，包括但不限於不支持部分文本使用其他字體的場景等。
+
 因此，攷慮到使用者可能並不滿意字體所預設的字形、使用不同字形的需求或異體字混排便利性等等，故本專案攷慮將當前日文字體使用有一段時間的異體字選擇器特性同樣應用在中文字體上以滿足不同人士的需求。
 
+
 >註：出於使用者或有使用不同字形的需求及尊重使用者選擇不同字形的權利，不攷慮統一基本區內的歷史遺留問題——原規格分離原則分別編碼的字符字形。如有「統一」風格的需求，輸入指定的字符卽可。
+
+**字範樣本**
+
+![IVS-Sample](https://github.com/ChiuMing-Neko/ChiuKongGothic/blob/main/images/IVS-sample.png)
 
 **目前所支援的IVD字集：**
 
@@ -48,7 +51,12 @@ An experiment font family project with IVS feature derived from Source Han Sans.
 
 - 未收錄於任何IVD字集但個人認爲亦可整合的字形 （編碼區間：E01EA ~ E01EF）
 
+
 > 註：如以上計劃新增字集所定義的字形已和現有的字集重複（如部分Hanyo-Denshi與Adobe-Japan1的字形重複），將不重複編碼。
+
+### 版本差異
+
+![diff1](https://github.com/ChiuMing-Neko/ChiuKongGothic/blob/main/images/diff1.png)
 
 ## 著作權及授權信息
 依照SIL Open Font License 1.1授權許可發佈，您可以：
