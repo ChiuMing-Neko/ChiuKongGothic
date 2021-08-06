@@ -1,4 +1,4 @@
-# ChiuKong Gothic 秋空黑體 秋空黑体 秋空ゴチック
+# ChiuKong Gothic 秋空黑體 秋空黑体 秋空ゴシック体
 [简体中文]() [秋明通表字体]()
 ## 簡介
 An experiment font family project with IVS feature derived from Source Han Sans.
@@ -10,10 +10,11 @@ An experiment font family project with IVS feature derived from Source Han Sans.
 
 - **傳統字形版本（CL）：** 基於思源黑體2.004版，透過限制性方式將字符映射到已有的傳統印刷體字形字圖的傳統印刷體風格字體。
 
-- **新字形版本（M）：** 以傳統字形版爲基礎進行修改，兼顧當代慣用字形及印刷體骨架的新字形印刷體風格字體。（中期計劃）
+- **新字形版本（M）：** 以傳統字形版爲基礎進行修改，兼顧當代慣用字形及印刷體骨架的新字形印刷體風格字體。
 
-- **秋明新字形版本（CM）：** 以新字形版爲基礎進行修改，符合[秋明通用漢字表字形](https://glyphwiki.org/wiki/Group:chiuming-neko_cm-chara-list)的󠄀實験演示性新字形風格字体。（長期計劃）
+- **秋明新字形版本（CM）：** 以新字形版爲基礎進行修改，符合[秋明通用漢字表字形](https://glyphwiki.org/wiki/Group:chiuming-neko_cm-chara-list)的󠄀實験演示性新字形風格字体。
 
+>註：傳統字形版所採用的字形標準大致與日本舊字體、南韓目前字形標準大致相當，並非《傳承字形部件檢校表》所規範的字形。
 
 ![diff1](https://github.com/ChiuMing-Neko/ChiuKongGothic/blob/main/images/diff1.png)
 
@@ -23,7 +24,11 @@ An experiment font family project with IVS feature derived from Source Han Sans.
 
 思源黑體所提供給中文世界的分流版或多或少都有楷化的成分——其中以臺灣「正體」中文分流版修改漢字字形情況最爲嚴重。雖然十分接近各地的手寫體楷書字形規範，但有文本排版文字跳動感較大、字符重心不穩等諸多問題，不符合漢字印刷體的審美及使用習慣。
 
+同時，本專案亦計劃支援常用字範圍內的印刷體風格中國大陸特有簡化字（此簡化字爲漢字簡化方案公佈以前不曾於任何文獻出現的新造字，俗字屬於傳統漢字範圍內，不宜與簡化字槪念混淆）。
+
 ![diff2](https://github.com/ChiuMing-Neko/ChiuKongGothic/blob/main/images/diff2.png)
+
+>註：簡化字的字形以俗字化新字形爲準。
 
 ### 異體字選擇器
 
@@ -56,6 +61,7 @@ An experiment font family project with IVS feature derived from Source Han Sans.
 
 
 > 註：如以上計劃新增字集所定義的字形已和現有的字集重複（如部分Hanyo-Denshi與Adobe-Japan1的字形重複），將不重複編碼。
+> 常用字定義：位於[秋明通用漢字表](https://glyphwiki.org/wiki/Group:chiuming-neko_cm-chara-list)範圍內的漢字。
 
 
 ## 著作權及授權信息
