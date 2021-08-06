@@ -14,7 +14,7 @@ An experiment font family project with IVS feature derived from Source Han Sans.
 
 - **秋明新字形版本（CM）：** 以新字形版爲基礎進行修改，符合[秋明通用漢字表字形](https://glyphwiki.org/wiki/Group:chiuming-neko_cm-chara-list)的󠄀實験演示性新字形風格字体。
 
->註：傳統字形版所採用的字形標準大致與日本舊字體、南韓目前字形標準大致相當，並非《傳承字形部件檢校表》所規範的字形。
+>註：傳統字形版所採用的字形標準大致與日本舊字體、南韓目前字形標準相當，並非《傳承字形部件檢校表》所規範的字形。
 
 ![diff1](https://github.com/ChiuMing-Neko/ChiuKongGothic/blob/main/images/diff1.png)
 
