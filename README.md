@@ -56,6 +56,11 @@ A Chinese language font family project derived from Source Han Sans, with the in
 - 自由分發本字体。
 - 基於SIL Open Font License 1.1授權許可修改、二次創作本字体。
 
+## 問題反饋
+歡迎直接在Repo提交Issue反饋問題，一般而言僅受理於Repo提交的Issue。
+
+原則上不受理提議要求統一源規格分離原則字符的Issue，原因是可能有違本專案有考慮兼顧純文本異體字編排的主旨。
+
 ## 鳴謝
 - [思源黑體](https://github.com/adobe-fonts/source-han-sans) by Adobe
 - [思源黑體 傳統](https://github.com/redchenjs/source-han-sans-classic) by [Jack Chen](https://github.com/redchenjs) 
