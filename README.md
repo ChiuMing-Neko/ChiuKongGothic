@@ -2,6 +2,7 @@
 
 ## 簡介
 A Chinese language font family project derived from Source Han Sans, with the integration of Ideographic variation sequence.
+
 一款基於思源黑體，同時整合異體字選擇器功能的中文印刷體風格字體家族專案。
 
 ## 分流版本
