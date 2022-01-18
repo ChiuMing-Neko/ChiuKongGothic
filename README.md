@@ -24,6 +24,20 @@ A Chinese language font family project derived from Source Han Sans, with the in
 
 ### 異體字選擇器
 
+#### 使用方法
+
+- **直接輸入變體選擇符**
+
+- **使用「異体字セレクタセレクタ」網站**
+	![異体字セレクタセレクタ](./images/vsselector.png)
+	[按此訪問](https://747.github.io/vsselector/)
+
+	> 輸入本字體另外整合的字形時請選擇VS251 ~ VS256字符(U+E01EA ~ U+E01EF)
+
+- **使用支援異體字選擇器功能的輸入法（日語輸入法限定）**
+	![IVS-IMEmethod](./images/IVS-IME.gif)
+	*需要開啓「環境依存文字」功能*
+
 #### 目前所支援的IVD字集
 
 - Adobe-Japan1
