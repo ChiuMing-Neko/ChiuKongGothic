@@ -29,7 +29,7 @@ A Chinese language font family project derived from Source Han Sans, with the in
 #### 使用方法
 
 - **直接輸入變體選擇符**
-	![IVS-DirectInputMethod](./images/IVS-DirectIn)
+	![IVS-DirectInputMethod](./images/IVS-DirectIn.gif)
 	> GIF中所演示的輸入方式爲直接輸入變體選擇符的其中之一的輸入方式，輸入完變體選擇符的Unicode編碼後使用Alt+X轉換成字符。
 
 - **使用「異体字セレクタセレクタ」網站**
