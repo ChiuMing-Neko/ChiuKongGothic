@@ -11,7 +11,7 @@ A Chinese language font family project derived from Source Han Sans, with the in
 ### 舊式印刷體字形版本（CL）
 所使用的默認字圖字形爲各地漢字改革以前慣常使用的活字印刷字形，其字形選定基準大致與「いわゆる康煕字典体」相同。因簡化字修改進程仍未完善及簡化字用戶可能並不習慣舊字形考慮下，目前僅推薦於傳統漢字的場景下使用。
 ![VersionCL](./images/versionCL.png)
-### 現代印刷風格字形版本（MN）
+### 現代筆形印刷體字形版本（MN）
  所使用的默認字圖字形爲兼顧當代慣用筆形及保留印刷體骨架的新舊字形混合印刷體風格字形。如有兼顧簡化字使用場景的需求推薦使用該分流版本，但仍建議主要於傳統漢字的場景下使用。
 ![VersionMN](./images/versionMN.png)
 
