@@ -1,5 +1,5 @@
 # ChiuKong Gothic 秋空黑體 秋空黑体 秋空ゴシック体
-
+![logo](./images/logo.png)
 ## 簡介
 A Chinese language font family project derived from Source Han Sans, with the integration of Ideographic variation sequence.
 
@@ -10,11 +10,10 @@ A Chinese language font family project derived from Source Han Sans, with the in
 
 ### 舊式印刷體字形版本（CL）
 所使用的默認字圖字形爲各地漢字改革以前慣常使用的活字印刷字形，其字形選定基準大致與「いわゆる康煕字典体」相同。因簡化字修改進程仍未完善及簡化字用戶可能並不習慣舊字形考慮下，目前僅推薦於傳統漢字的場景下使用。
-
+![VersionCL](./images/versionCL.png)
 ### 現代印刷風格字形版本（MN）
- 所使用的默認字圖字形爲兼顧當代慣用字形及印刷體風格的現代漢字印刷體風格字形，如有兼顧簡化字使用場景的需求推薦使用該分流版本。
-
-
+ 所使用的默認字圖字形爲兼顧當代慣用筆形及保留印刷體骨架的新舊字形混合印刷體風格字形。如有兼顧簡化字使用場景的需求推薦使用該分流版本，但仍建議主要於傳統漢字的場景下使用。
+![VersionMN](./images/versionMN.png)
 
 > 註：無論是CL版還是MN版都可以利用字體整合的異體字選擇器功能選擇字符的其他字形，簡單來說卽使用MN版時亦可透過異體字選擇器指定CL版本默認字圖爲該字符的指定字形字樣。
 
@@ -39,7 +38,7 @@ A Chinese language font family project derived from Source Han Sans, with the in
 故本專案決定實裝已經在日語社區使用有一段時間的異體字選擇器，其將可以有效解決純文本異體字編排難的問題。卽透過這一功能使不用切換字體就可以達到在純文本的場景下同時顯示同編碼字符的不同字形，同時亦能透過使用異體字選擇器滿足部分使用者有對特定字符有指定字形的需求。
 
 #### 異體字選擇器效果預覽
-
+![IVS-Sample2](./images/IVS-Sample2.png)
 #### 使用方法
 
 - **直接輸入變體選擇符**
