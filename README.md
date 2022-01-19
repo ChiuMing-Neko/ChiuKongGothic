@@ -43,17 +43,20 @@ A Chinese language font family project derived from Source Han Sans, with the in
 #### 使用方法
 
 - **直接輸入變體選擇符**
+
 	![IVS-DirectInputMethod](./images/IVS-DirectIn.gif)
-	> GIF中所演示的輸入方式爲直接輸入變體選擇符的其中之一的輸入方式，輸入完變體選擇符的Unicode編碼後使用Alt+X轉換成字符。
+	> *GIF中所演示的輸入方式爲直接輸入變體選擇符的其中之一的輸入方式，輸入完變體選擇符的Unicode編碼後使用Alt+X轉換成字符。*
 
 - **使用「[異体字セレクタセレクタ](https://747.github.io/vsselector/)」網站**
+
 	![異体字セレクタセレクタ](./images/vsselector.png)
 
-	> 輸入本字體另外整合的字形時請選擇VS251 ~ VS256字符(U+E01EA ~ U+E01EF)
+	> *輸入本字體另外整合的字形時請選擇VS251 ~ VS256字符(U+E01EA ~ U+E01EF)*
 
 - **使用支援異體字選擇器功能的輸入法（日語輸入法限定）**
+
 	![IVS-IMEmethod](./images/IVS-IME.gif)
-	*需要開啓「環境依存文字」功能*
+	> *需要開啓「環境依存文字」功能*
 
 #### 目前所支援的IVD字集
 
