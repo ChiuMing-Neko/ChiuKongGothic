@@ -38,7 +38,9 @@ A Chinese language font family project derived from Source Han Sans, with the in
 故本專案決定實裝已經在日語社區使用有一段時間的異體字選擇器，其將可以有效解決純文本異體字編排難的問題。卽透過這一功能使不用切換字體就可以達到在純文本的場景下同時顯示同編碼字符的不同字形，同時亦能透過使用異體字選擇器滿足部分使用者有對特定字符有指定字形的需求。
 
 #### 異體字選擇器效果預覽
-![IVS-Sample2](./images/IVS-Sample2.png)
+
+![IVS-Sample2](./images/IVS-sample2.png)
+
 #### 使用方法
 
 - **直接輸入變體選擇符**
