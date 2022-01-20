@@ -110,3 +110,4 @@ A Chinese language font family project derived from Source Han Sans, with the in
 - [康煕字典網上版](https://www.kangxizidian.com/)
 - [東京築地活版製造所の活字見本帖](http://www.asahi-net.or.jp/~sd5a-ucd/Tsukiji-5go-S11-Specimenbook.html)
 - [字形維基](https://glyphwiki.org/)
+- [NightFurySL2001 ](https://github.com/NightFurySL2001) 的技術指導
