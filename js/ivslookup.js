@@ -41,7 +41,7 @@ function getLookUp() {
 
 function validateChara() {
     var validate = false;
-    var character = getLookUp();
+    var character = fixedCharAt(getLookUp(), 0);
 
     if (character.match(/\p{Unified_Ideograph}/u) || character.match(/[\u3007]/)) {
         validate = true;
