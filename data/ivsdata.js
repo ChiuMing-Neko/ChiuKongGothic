@@ -1,4 +1,4 @@
-const ivsdata = [ 
+const ivsdata = [  
     {
         codePoint: "3402",
         IVSData: [
@@ -9307,7 +9307,7 @@ const ivsdata = [
             },
             {
                 IVSCode: "E01EA",
-                IVDSetName: "PUA"
+                IVDSetName: ""
             }
         ]
     },
@@ -125464,6 +125464,10 @@ const ivsdata = [
             {
                 IVSCode: "E0100",
                 IVDSetName: "Adobe-Japan1"
+            },
+            {
+                IVSCode: "E01EA",
+                IVDSetName: "PUA"
             }
         ]
     },

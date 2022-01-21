@@ -9307,7 +9307,7 @@
         },
         {
             IVSCode: "E01EA",
-            IVDSetName: "PUA"
+            IVDSetName: ""
         }
     ]
 },
@@ -125464,6 +125464,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
