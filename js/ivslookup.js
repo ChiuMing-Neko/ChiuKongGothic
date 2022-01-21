@@ -39,23 +39,6 @@ function getLookUp() {
     return document.querySelector("input#lookup").value;
 }
 
-function getData(file) {
-    var dataFile = new XMLHttpRequest();
-    var dataText;
-    dataFile.open("GET", file, false);
-
-    dataFile.onreadystatechange = function() {
-        if (dataFile.readyState === 4) {
-            if (dataFile.status === 200 || dataFile.status === 0) {
-                dataText = dataFile.responseText;
-            }
-        }
-    }
-
-    dataFile.send(null);
-    return dataText;
-}
-
 function validateChara() {
     var validate = false;
     var character = getLookUp();
