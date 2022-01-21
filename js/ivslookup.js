@@ -32,7 +32,7 @@ function fixedCharAt(str, idx) {
         ret += str.charAt(idx + 1);
     }
 
-    return ret
+    return ret;
 }
 
 function getLookUp() {
@@ -63,9 +63,9 @@ function checkIVS(theCodePoint) {
                 var theObject = {IVScodePoint: "", IVDSet: ""};
                 theObject.IVScodePoint = ivsdata[i].IVSData[j].IVSCode;
                 theObject.IVDSet = ivsdata[i].IVSData[j].IVDSetName;
-                IVSArray.push(theObject)
+                IVSArray.push(theObject);
             }
-            break
+            break;
         }
     }
     return IVSArray;
