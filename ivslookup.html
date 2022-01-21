@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" name="viewport">
+        <title>ChiuKong Gothic Previewer</title>
+        <link rel="stylesheet" href="css/font.css">
+        <link rel="stylesheet" href="css/ivslookup.css">
+        <script src="data/ivsdata.js"></script>
+        <script src="js/ivslookup.js"></script>
+    </head>
+    <body>
+        <header>
+            <h1>異體字字圖檢索</h1>
+        </header>
+        <nav>
+            <ul>
+                <li class="fontswitch"><input name="changefont" checked="" onclick="changeFont('CL')" type="radio">舊式印刷體字形</li>
+                <li class="fontswitch"><input name="changefont" onclick="changeFont('MN')" type="radio">現代筆形印刷體字形</li>
+            </ul>
+        </nav>
+        <div class="lookupbar">
+            <label for="lookup">輸入要査詢的字符：</label>
+            <input type="text" id="lookup" name="lookup">
+            <input type="button" onclick="validateChara()" value="檢索">
+        </div>
+        <div class="content">
+
+        </div>
+        <footer>
+            <a href="index.html">返回首頁</a>
+        </footer>
+    </body>
+</html>

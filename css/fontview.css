@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "ChiuKong Gothic CL";
+    font-size: x-large;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+nav > ul {
+    list-style-type: None;
+}
+
+nav > ul > li {
+    display: inline;
+    float: left;
+    margin: 10px 10px 10px 0px;
+    padding: 10px 10px 10px 0px;
+}
+
+div.inputbox {
+    display: block;
+    font-size: x-large;
+}
+
+textarea#testarea {
+    font-family: "ChiuKong Gothic CL";
+    font-size: xx-large;
+    font-variation-settings: 'wdth' var(--text-axis);
+    margin: 24px;
+    padding: 24px;
+    width:80%;
+    height:20vw;
+    flex: 1;
+    resize: none;
+}
+
+div.ivs {
+    display: flex;
+    flex-direction: row;
+}
+
+div.ivs > ul > li {
+    display: inline;
+    float: left;
+    margin: 5px 5px 5px 0px;
+    padding: 5px 5px 5px 0px;
+}

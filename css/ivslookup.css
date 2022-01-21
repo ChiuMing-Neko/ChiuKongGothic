@@ -1,0 +1,60 @@
+* {
+    margin: 20;
+    padding: 20;
+}
+
+body {
+    font-family: "ChiuKong Gothic CL";
+    font-size: x-large;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav > ul {
+    list-style-type: None;
+}
+
+nav > ul > li {
+    display: inline;
+    float: left;
+    margin: 10px 10px 0px 0px;
+    padding: 10px 10px 0px 0px;
+}
+
+div.content {
+    font-family: "ChiuKong Gothic CL";
+    display: flex;
+    flex-direction: row;
+    margin: 25px;
+    padding: 0px;
+}
+
+div.charaBox {
+    margin: 15px;
+}
+
+table {
+    text-align: center;
+}
+
+tr.glyph {
+    font-size: 100px;
+    font-weight: 500;
+}
+
+tr.glyph_ivs {
+    font-size: 72px;
+}
+
+table.ivsinfo > tbody > tr.codepoint {
+    font-size: large;
+}
+
+tr.ivdset {
+    font-size: large;
+}
