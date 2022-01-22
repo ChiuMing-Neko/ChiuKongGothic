@@ -54,10 +54,32 @@ function validateChara() {
     }
 }
 
-function checkIVS(theCodePoint) {
+function checkIVS(keyCodePoint) {
+    var charCodePoint = parseInt(keyCodePoint, 16);
     var IVSArray = [];
 
-    for (var i = 0; i < ivsdata.length; i++) {
+    //binary search
+    var left = 0;
+    var right = ivsdata.length-1;
+    while (left <= right) {
+        const mid = left + Math.floor((right - left)/2);
+        var currCodePoint = parseInt(ivsdata[mid].codePoint, 16);
+        if (currCodePoint < charCodePoint) {
+            left = mid + 1;
+        } else if (currCodePoint > charCodePoint) {
+            right = mid - 1;
+        } else {
+            for (var j = 0; j < ivsdata[mid].IVSData.length; j++) {
+                var theObject = {IVScodePoint: "", IVDSet: ""};
+                theObject.IVScodePoint = ivsdata[mid].IVSData[j].IVSCode;
+                theObject.IVDSet = ivsdata[mid].IVSData[j].IVDSetName;
+                IVSArray.push(theObject);
+            }
+            break;
+        }
+    }
+
+    /*for (var i = 0; i < ivsdata.length; i++) {
         if (ivsdata[i].codePoint === theCodePoint) {
             for (var j = 0; j < ivsdata[i].IVSData.length; j++) {
                 var theObject = {IVScodePoint: "", IVDSet: ""};
@@ -67,7 +89,8 @@ function checkIVS(theCodePoint) {
             }
             break;
         }
-    }
+    }*/
+
     return IVSArray;
 }
 
@@ -75,7 +98,6 @@ function generateData(charaInput) {
 
     var character = fixedCharAt(charaInput, 0);
     var codePoint = (character.codePointAt(0)).toString(16).toUpperCase();
-
     var content = "";
 
     //initialize
