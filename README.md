@@ -73,6 +73,8 @@ A Chinese language font family project derived from Source Han Sans, with the in
 
 - 常用字範圍內未收錄於任何IVD字集但認爲亦可整合的字形 （編碼區間：E01EA ~ E01EF）
 
+- 査詢具體已整合的字圖可使用[*秋空黑體異體字字圖檢索系統*](https://chiuming-neko.github.io/ChiuKongGothic/ivslookup.html) *(加載時間較久，主要爲60MB的字體文件，請耐心等待。)*
+
 #### 未來可能會支援的IVD字集
 
 - 其他Hanyo-Denshi （泛用電子）集所定義的字形
