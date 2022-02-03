@@ -970,6 +970,16 @@
     ]
 },
 {
+    codePoint: "3D7E",
+    IVSData: [
+        
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        }
+    ]
+},
+{
     codePoint: "3D9A",
     IVSData: [
         
@@ -2140,6 +2150,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -2154,6 +2168,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -2218,6 +2240,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -2248,6 +2278,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -2268,6 +2306,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -2308,6 +2350,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -2578,6 +2624,16 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        }
+    ]
+},
+{
+    codePoint: "4E3D",
+    IVSData: [
+        
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -3678,6 +3734,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -4536,6 +4600,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         },
         {
             IVSCode: "E0102",
@@ -5468,6 +5536,10 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -6008,6 +6080,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -6142,8 +6218,20 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "MSARG"
+        },
+        {
+            IVSCode: "E0104",
+            IVDSetName: "MSARG"
         }
     ]
 },
@@ -6620,6 +6708,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -6808,6 +6900,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Moji-Joho"
         }
     ]
 },
@@ -7234,6 +7334,20 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        }
+    ]
+},
+{
+    codePoint: "50C8",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -7984,6 +8098,20 @@
     ]
 },
 {
+    codePoint: "5125",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Moji-Joho"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Moji-Joho"
+        }
+    ]
+},
+{
     codePoint: "5127",
     IVSData: [
         
@@ -8020,6 +8148,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -8552,6 +8688,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -8606,6 +8750,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Moji-Joho"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -8680,6 +8832,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -8876,6 +9032,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -9328,6 +9492,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -13084,6 +13256,22 @@
         {
             IVSCode: "E0105",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0106",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0107",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E010A",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E010C",
+            IVDSetName: "Moji-Joho"
         }
     ]
 },
@@ -14840,6 +15028,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -16136,6 +16332,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -16214,6 +16418,48 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        }
+    ]
+},
+{
+    codePoint: "5568",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        }
+    ]
+},
+{
+    codePoint: "556B",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "MSARG"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "MSARG"
+        }
+    ]
+},
+{
+    codePoint: "5572",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -16318,6 +16564,18 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0105",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0106",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -16428,6 +16686,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -16716,6 +16982,20 @@
     ]
 },
 {
+    codePoint: "55BC",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
+        }
+    ]
+},
+{
     codePoint: "55BF",
     IVSData: [
         
@@ -16812,6 +17092,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -17112,6 +17396,16 @@
     ]
 },
 {
+    codePoint: "5600",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        }
+    ]
+},
+{
     codePoint: "5605",
     IVSData: [
         
@@ -17122,6 +17416,18 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0105",
+            IVDSetName: "Moji-Joho"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -17302,8 +17608,26 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
+        }
+    ]
+},
+{
+    codePoint: "561F",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -18864,6 +19188,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -20244,6 +20576,20 @@
     ]
 },
 {
+    codePoint: "57E5",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        }
+    ]
+},
+{
     codePoint: "57E6",
     IVSData: [
         
@@ -21190,6 +21536,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -22280,6 +22634,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -24362,6 +24720,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -27994,6 +28360,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "MSARG"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "MSARG"
         }
     ]
 },
@@ -28568,6 +28942,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -31254,6 +31636,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -31266,8 +31656,24 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0105",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0107",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -39040,6 +39446,22 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0105",
+            IVDSetName: "MSARG"
+        },
+        {
+            IVSCode: "E0106",
+            IVDSetName: "MSARG"
         }
     ]
 },
@@ -41086,6 +41508,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -41372,6 +41798,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -41830,6 +42264,18 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -42050,6 +42496,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -44286,6 +44736,24 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        }
+    ]
+},
+{
+    codePoint: "65F3",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -45774,6 +46242,20 @@
     ]
 },
 {
+    codePoint: "66A8",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
+        }
+    ]
+},
+{
     codePoint: "66AB",
     IVSData: [
         
@@ -45942,6 +46424,22 @@
         {
             IVSCode: "E0102",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0104",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0105",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0106",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -49752,6 +50250,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -50334,6 +50840,18 @@
         {
             IVSCode: "E0102",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0104",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0106",
+            IVDSetName: "MSARG"
         }
     ]
 },
@@ -51238,6 +51756,14 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -51844,6 +52370,18 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0104",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -55006,6 +55544,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -55559,6 +56105,20 @@
 },
 {
     codePoint: "6C2F",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
+        }
+    ]
+},
+{
+    codePoint: "6C30",
     IVSData: [
         
         {
@@ -62130,8 +62690,20 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0107",
             IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0109",
+            IVDSetName: "MSARG"
         }
     ]
 },
@@ -62668,6 +63240,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -66134,6 +66714,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -68394,6 +68982,18 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -71562,6 +72162,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -72014,6 +72618,20 @@
     ]
 },
 {
+    codePoint: "766B",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
+        }
+    ]
+},
+{
     codePoint: "766C",
     IVSData: [
         
@@ -72084,6 +72702,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         },
         {
             IVSCode: "E0104",
@@ -73704,6 +74330,10 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -74026,6 +74656,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -75374,6 +76012,20 @@
     ]
 },
 {
+    codePoint: "7883",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        }
+    ]
+},
+{
     codePoint: "7886",
     IVSData: [
         
@@ -75874,6 +76526,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -80718,6 +81378,10 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -84642,6 +85306,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -84744,6 +85416,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -85376,6 +86056,16 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        }
+    ]
+},
+{
+    codePoint: "7E02",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -86532,6 +87222,16 @@
     ]
 },
 {
+    codePoint: "7EA2",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        }
+    ]
+},
+{
     codePoint: "7EBF",
     IVSData: [
         
@@ -86729,6 +87429,10 @@
     codePoint: "7F48",
     IVSData: [
         
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        },
         {
             IVSCode: "E0101",
             IVDSetName: "Hanyo-Denshi"
@@ -87668,6 +88372,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -91452,6 +92164,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -91664,6 +92384,18 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -91674,6 +92406,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -91962,6 +92698,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -94816,6 +95560,10 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
         },
@@ -94825,6 +95573,10 @@
         },
         {
             IVSCode: "E0106",
+            IVDSetName: "MSARG"
+        },
+        {
+            IVSCode: "E0107",
             IVDSetName: "MSARG"
         }
     ]
@@ -96262,8 +97014,24 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0103",
             IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0104",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0105",
+            IVDSetName: "MSARG"
+        },
+        {
+            IVSCode: "E0106",
+            IVDSetName: "MSARG"
         }
     ]
 },
@@ -97172,6 +97940,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         },
         {
             IVSCode: "E0102",
@@ -100642,6 +101414,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -104504,6 +105284,10 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -104954,6 +105738,20 @@
     ]
 },
 {
+    codePoint: "89C6",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
+        }
+    ]
+},
+{
     codePoint: "89D2",
     IVSData: [
         
@@ -105054,6 +105852,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -105084,6 +105890,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -107486,6 +108300,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -107906,6 +108728,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -107970,6 +108800,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -108080,6 +108918,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -113032,6 +113878,24 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        }
+    ]
+},
+{
+    codePoint: "8F24",
+    IVSData: [
+        
+        {
+            IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -115724,6 +116588,18 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0104",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -117176,6 +118052,10 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0103",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -117862,6 +118742,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         },
         {
             IVSCode: "E0102",
@@ -120380,6 +121264,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -121930,6 +122822,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -123604,6 +124504,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -125016,6 +125920,10 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -125880,6 +126788,14 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0104",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -125908,6 +126824,10 @@
             IVDSetName: "Adobe-Japan1"
         },
         {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
             IVSCode: "E0102",
             IVDSetName: "Hanyo-Denshi"
         }
@@ -125920,6 +126840,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         },
         {
             IVSCode: "E0102",
@@ -125938,6 +126862,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -125948,6 +126880,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         },
         {
             IVSCode: "E0102",
@@ -125984,6 +126920,26 @@
         {
             IVSCode: "E0102",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0104",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0105",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0108",
+            IVDSetName: "MSARG"
+        },
+        {
+            IVSCode: "E0109",
+            IVDSetName: "MSARG"
         }
     ]
 },
@@ -125993,6 +126949,10 @@
         
         {
             IVSCode: "E0100",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0101",
             IVDSetName: "Hanyo-Denshi"
         }
     ]
@@ -126004,6 +126964,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Moji-Joho"
         },
         {
             IVSCode: "E0102",
@@ -128102,6 +129066,20 @@
     ]
 },
 {
+    codePoint: "98A0",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
+        }
+    ]
+},
+{
     codePoint: "98A8",
     IVSData: [
         
@@ -129538,6 +130516,20 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        }
+    ]
+},
+{
+    codePoint: "9962",
+    IVSData: [
+        
+        {
+            IVSCode: "E01EA",
+            IVDSetName: "PUA"
+        },
+        {
+            IVSCode: "E01EB",
+            IVDSetName: "PUA"
         }
     ]
 },
@@ -133252,6 +134244,14 @@
         {
             IVSCode: "E0101",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0103",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
@@ -135436,6 +136436,10 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
         },
         {
             IVSCode: "E0102",
@@ -137680,6 +138684,14 @@
         {
             IVSCode: "E0100",
             IVDSetName: "Adobe-Japan1"
+        },
+        {
+            IVSCode: "E0101",
+            IVDSetName: "Hanyo-Denshi"
+        },
+        {
+            IVSCode: "E0102",
+            IVDSetName: "Hanyo-Denshi"
         }
     ]
 },
