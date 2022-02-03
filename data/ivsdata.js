@@ -51762,10 +51762,6 @@ const ivsdata = [
             {
                 IVSCode: "E0102",
                 IVDSetName: "Hanyo-Denshi"
-            },
-            {
-                IVSCode: "E0102",
-                IVDSetName: "Hanyo-Denshi"
             }
         ]
     },
