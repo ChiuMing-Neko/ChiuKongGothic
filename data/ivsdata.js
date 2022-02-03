@@ -31656,15 +31656,15 @@ const ivsdata = [
                 IVDSetName: "Adobe-Japan1"
             },
             {
-                IVSCode: "E0100",
-                IVDSetName: "Hanyo-Denshi"
-            },
-            {
                 IVSCode: "E0101",
                 IVDSetName: "Adobe-Japan1"
             },
             {
-                IVSCode: "E0101",
+                IVSCode: "E0102",
+                IVDSetName: "Hanyo-Denshi"
+            },
+            {
+                IVSCode: "E0104",
                 IVDSetName: "Hanyo-Denshi"
             },
             {
