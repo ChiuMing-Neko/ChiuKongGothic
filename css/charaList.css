@@ -1,0 +1,38 @@
+body {
+    font-family: "ChiuKong Gothic CL";
+    font-size: x-large;
+}
+
+#inactiveLink {
+    color: black;
+    pointer-events: none;
+    cursor: default;
+ }
+
+table {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.IVS, table.IVS > tbody > tr > td {
+    border: 0;
+}
+
+td.CL {
+    font-size: 96px;
+    font-weight: 500;
+}
+
+td.MN {
+    font-family: "ChiuKong Gothic MN";
+    font-size: 96px;
+    font-weight: 500;
+ }
+
+ tr.IVSTableGlyph {
+     font-size: 72px;
+ }

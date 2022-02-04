@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" name="viewport">
+        <title>ChiuKong Gothic Han Chracter List</title>
+        <link rel="stylesheet" href="css/font.css">
+        <link rel="stylesheet" href="css/charaList.css">
+        <script src="data/chara_list/big5_freq.js"></script>
+        <script src="data/chara_list/taiwanMOE_1.js"></script>
+        <script src="data/chara_list/hk_regular.js"></script>
+        <script src="data/chara_list/GB2312.js"></script>
+        <script src="data/chara_list/tonggui_changyong.js"></script>
+        <script src="data/chara_list/hk_suppchara.js"></script>
+        <script src="data/ivsdata.js"></script>
+        <script src="js/charaList.js"></script>
+    </head>
+    <body onload="pageOnload()">
+        <header>
+            <h1>漢字字表一覽</h1>
+        </header>
+        <nav>
+            <form>
+                <label for="選擇要査看的字表："></label>
+                <select name="charaListLookUp" onchange="selectorFunc()">
+
+                </select>
+            </form>
+        </nav>
+        <div class="content">
+            <h2 id="tablename"></h2>
+            <p>所有字表都按Unicode編碼順序排列</p>
+            <table>
+                <thead>
+                    <th>Unicode</th>
+                    <th>CL</th>
+                    <th>MN</th>
+                    <th>IVD</th>
+                </thead>
+                <tbody id="tablecontent">
+
+                </tbody>
+            </table>
+        </div>
+        <div class="nav_bar">
+
+        </div>
+        <footer>
+            <a href="index.html">返回首頁</a>
+        </footer>
+    </body>
+</html>

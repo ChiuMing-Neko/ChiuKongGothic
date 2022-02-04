@@ -1,8 +1,16 @@
 @font-face {
     font-family: "ChiuKong Gothic CL";
     src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFCL.otf") format("opentype-variations");
+    font-display: block;
+    font-weight: 250 900;
+}
+
+/*@font-face {
+    font-family: "ChiuKong Gothic CL";
+    src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFCL.otf") format("opentype-variations");
     font-display: swap;
     font-weight: 250 900;
+    unicode-range: U+3007, U+3400–4DBF, U+4E00–9FFF, U+FA0E–FA0F, U+FA11, U+FA13–FA14, U+FA1F, U+FA21, U+FA23–FA24, U+FA27–FA29;
 }
 
 @font-face {
@@ -10,15 +18,23 @@
     src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFCL.otf") format("opentype-variations");
     font-display: swap;
     font-weight: 250 900;
-    unicode-range: U+3007, U+3400–4DBF, U+4E00–9FFF, U+FA0E–FA0F, U+FA11, U+FA13–FA14, U+FA1F, U+FA21, U+FA23–FA24, U+FA27–FA29; /*BMP*/
-}
+    unicode-range: U+20000–2A6DF, U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF, U+2CEB0–2EBEF, U+30000–3134F;
+}*/
+
 
 @font-face {
-    font-family: "ChiuKong Gothic CL";
-    src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFCL.otf") format("opentype-variations");
+    font-family: "ChiuKong Gothic MN";
+    src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFMN.otf") format("opentype-variations");
+    font-display: block;
+    font-weight: 250 900;
+}
+
+/*@font-face {
+    font-family: "ChiuKong Gothic MN";
+    src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFMN.otf") format("opentype-variations");
     font-display: swap;
     font-weight: 250 900;
-    unicode-range: U+20000–2A6DF, U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF, U+2CEB0–2EBEF, U+30000–3134F; /*SIP-TIP*/
+    unicode-range: U+3007, U+3400–4DBF, U+4E00–9FFF, U+FA0E–FA0F, U+FA11, U+FA13–FA14, U+FA1F, U+FA21, U+FA23–FA24, U+FA27–FA29;
 }
 
 @font-face {
@@ -26,20 +42,5 @@
     src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFMN.otf") format("opentype-variations");
     font-display: swap;
     font-weight: 250 900;
-}
-
-@font-face {
-    font-family: "ChiuKong Gothic MN";
-    src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFMN.otf") format("opentype-variations");
-    font-display: swap;
-    font-weight: 250 900;
-    unicode-range: U+3007, U+3400–4DBF, U+4E00–9FFF, U+FA0E–FA0F, U+FA11, U+FA13–FA14, U+FA1F, U+FA21, U+FA23–FA24, U+FA27–FA29; /*BMP*/
-}
-
-@font-face {
-    font-family: "ChiuKong Gothic MN";
-    src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFMN.otf") format("opentype-variations");
-    font-display: swap;
-    font-weight: 250 900;
-    unicode-range: U+20000–2A6DF, U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF, U+2CEB0–2EBEF, U+30000–3134F; /*SIP-TIP*/
-}
+    unicode-range: U+20000–2A6DF, U+2A700–2B73F, U+2B740–2B81F, U+2B820–2CEAF, U+2CEB0–2EBEF, U+30000–3134F;
+}*/
