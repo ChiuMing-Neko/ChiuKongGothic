@@ -4,7 +4,7 @@ const FILE_NAMES = [
     {name: "香港-常用字字形表", path: hk_regular},
     {name: "GB/T 2312–1980", path: gb2312},
     {name: "GB/T 12345–1990", path: gb12345},
-    {name: "中國-現代漢語常用字表", path: tonggui_changyong},
+    {name: "中國大陸-現代漢語常用字表", path: tonggui_changyong},
     {name: "香港增補字符集", path: hkscs},
     {name: "常用香港外字表", path: hk_suppchara}
 ];
@@ -22,6 +22,7 @@ function loadFile(rawData) {
     charaData = chara_list;
     console.log(charaData.length)
 
+    currPage = 1;
     document.querySelector("div.nav_bar").innerHTML = "";
     var totalPage = Math.ceil(charaData.length / LOADNUM);
     for (var i = 1; i <= totalPage; i++) {
