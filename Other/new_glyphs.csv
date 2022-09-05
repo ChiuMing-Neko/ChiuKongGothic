@@ -1,4 +1,4 @@
-﻿標準,Unicode,Unicode(Dec),IVS,目標CID,字圖名称,被修改或替換的字圖名称,IVD集,默認字圖,註釋
+標準,Unicode,Unicode(Dec),IVS,目標CID,字圖名称,被修改或替換的字圖名称,IVD集,默認字圖,註釋
 专,4E13,19987,/,9509,uni4E13-CN,uni4E13-CN,/,All,CL - 舊式明朝體（含俗字）
 东,4E1C,19996,/,9521,uni4E1C-CN,uni4E1C-CN,/,All,M - 現代筆形印刷體(MN)
 丝,4E1D,19997,/,9522,uni4E1D-CN,uni4E1D-CN,/,All, CM - 秋明通表新字形
@@ -43,6 +43,7 @@
 俘,4FD8,20440,E0102,10180,uni4FD8-CM,uni4FD8-CN,Hanyo-Denshi,"M,CM",
 俞,4FDE,20446,E0100,10189,uni4FDE-M,uni4FDE-CN,Hanyo-Denshi,M,
 俪,4FEA,20458,/,10207,uni4FEA-CM,uni4FEA-CN,/,All,
+俬,4FEC,20460,/,10209,uni4FEC-CL,uni4FEC-CN,/,All,
 俭,4FED,20461,/,10210,uni4FED-CN,uni4FED-CN,/,All,
 倏,500F,20495,E0102,10268,uni500FuE0102-JP,uni500F-CN,Hanyo-Denshi,IVS,
 倐,5010,20496,E0102,10269,uni5010uE0102-JP,uni500F-TW,Hanyo-Denshi,IVS,
