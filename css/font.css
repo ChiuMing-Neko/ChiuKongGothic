@@ -1,6 +1,6 @@
 @font-face {
     font-family: "ChiuKong Gothic CL";
-    src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFCL.otf") format("opentype-variations");
+    src: url("../data/WOFF2/ChiuKongGothicVFCL.woff2") format("woff2-variations");
     font-display: block;
     font-weight: 250 900;
 }
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: "ChiuKong Gothic MN";
-    src: url("https://raw.githubusercontent.com/ChiuMing-Neko/ChiuKongGothic/main/font/VF/ChiuKongGothicVFMN.otf") format("opentype-variations");
+    src: url("../data/WOFF2/ChiuKongGothicVFMN.woff2") format("woff2-variations");
     font-display: block;
     font-weight: 250 900;
 }
