@@ -1,8 +1,18 @@
+let fontState = "CL";
+
+const setFontState = (input) => {
+    fontState = input;
+}
+
 function changeFont(theInput) {
     if (theInput === "CL") {
-        document.querySelector("div.content").style.fontFamily = "ChiuKong Gothic CL";
+        //document.querySelector("div.content").style.fontFamily = "ChiuKong Gothic CL";
+        setFontState(theInput);
+        document.querySelector("div.charaBox").classList.remove("mnfont");
     } else if (theInput === "MN") {
-        document.querySelector("div.content").style.fontFamily = "ChiuKong Gothic MN";
+        //document.querySelector("div.content").style.fontFamily = "ChiuKong Gothic MN";
+        setFontState(theInput);
+        document.querySelector("div.charaBox").classList.add("mnfont");
     }
 }
 
@@ -159,4 +169,5 @@ function generateData(charaInput) {
     }
 
     document.querySelector("div.content").innerHTML = content;
+    changeFont(fontState);
 }
