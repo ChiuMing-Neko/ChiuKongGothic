@@ -28,7 +28,8 @@ td.CL {
 }
 
 td.MN {
-    font-family: "ChiuKong Gothic MN";
+    font-family: "ChiuKong Gothic CL";
+    font-feature-settings: "cv01";
     font-size: 96px;
     font-weight: 500;
  }
