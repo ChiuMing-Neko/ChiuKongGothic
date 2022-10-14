@@ -1,9 +1,12 @@
 標準,Unicode,IVS,目標CID,字圖名称,重複字圖名称,IVD集,默認字圖,新字圖？,註釋
 䶹,4DB9,/,15885,uni4DB9-CL,uni5C6E-JP,/,All,N,
+𠾖,20F96,/,12922,U20F96-CL,uni5668-JP,/,All,N,T-Source Dup.
 𡐨,21428,/,13899,u21428-CL,uni58C4-JP,/,All,N,
 𣽽,23F7D,/,24377,u23F7D-CL,uni6F78-CN,/,All,N,
+𤥨,24968,/,26531,u24968-CL,uni7422-JP,/,All,N,T-Source Dup.
+𦤀,26900,/,33290,u26900-CL,uni81ED-JP,/,All,N,
 𦤶,26936,/,33306,u26936-CL,uni81F4uE0102-JP,/,All,Y,
-𨺓,28E93,/,43226,u28E93-CL,uni9686-JP,/,All,N,
+𨺓,28E93,/,43226,u28E93-CL,uni9686-JP,/,All,N,T-Source Dup.
 𪳝,2ACDD,/,21946,u2ACCD-CL,uni69F1-JP,/,All,N,
 𫜸,2B738,/,62152,u2B738-CL,uni53F1uE0101-JP,/,All,N,Unicode 14.0 (Ext-C)
 𫜹,2B739,/,17290,u2B739-CL,uni5F50-CN,/,All,N,Unicode 15.0 (Ext-C)
