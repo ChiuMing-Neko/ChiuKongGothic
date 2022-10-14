@@ -7270,6 +7270,10 @@ const ivsdata = [
             {
                 IVSCode: "E0101",
                 IVDSetName: "Hanyo-Denshi"
+            },
+            {
+                IVSCode: "E0102",
+                IVDSetName: "Hanyo-Denshi"
             }
         ]
     },
@@ -15640,6 +15644,20 @@ const ivsdata = [
         ]
     },
     {
+        codePoint: "53AC",
+        IVSData: [
+            
+            {
+                IVSCode: "E01EA",
+                IVDSetName: "PUA"
+            },
+            {
+                IVSCode: "E01EB",
+                IVDSetName: "PUA"
+            }
+        ]
+    },
+    {
         codePoint: "53AD",
         IVSData: [
             
@@ -19911,6 +19929,20 @@ const ivsdata = [
                 IVSCode: "FE00",
                 IVDSetName: "Standardized_Variants"
             },
+            {
+                IVSCode: "E01EA",
+                IVDSetName: "PUA"
+            },
+            {
+                IVSCode: "E01EB",
+                IVDSetName: "PUA"
+            }
+        ]
+    },
+    {
+        codePoint: "55B5",
+        IVSData: [
+            
             {
                 IVSCode: "E01EA",
                 IVDSetName: "PUA"
@@ -49934,6 +49966,20 @@ const ivsdata = [
         ]
     },
     {
+        codePoint: "63DD",
+        IVSData: [
+            
+            {
+                IVSCode: "E01EA",
+                IVDSetName: "PUA"
+            },
+            {
+                IVSCode: "E01EB",
+                IVDSetName: "PUA"
+            }
+        ]
+    },
+    {
         codePoint: "63E0",
         IVSData: [
             
@@ -54596,6 +54642,10 @@ const ivsdata = [
             {
                 IVSCode: "E0101",
                 IVDSetName: "Hanyo-Denshi"
+            },
+            {
+                IVSCode: "E0102",
+                IVDSetName: "Hanyo-Denshi"
             }
         ]
     },
@@ -57471,7 +57521,7 @@ const ivsdata = [
             },
             {
                 IVSCode: "E0102",
-                IVDSetName: "Hanyo-Denshi"
+                IVDSetName: "Moji-Joho"
             }
         ]
     },
@@ -166942,6 +166992,20 @@ const ivsdata = [
             {
                 IVSCode: "E0100",
                 IVDSetName: "Adobe-Japan1"
+            }
+        ]
+    },
+    {
+        codePoint: "9BE6",
+        IVSData: [
+            
+            {
+                IVSCode: "E01EA",
+                IVDSetName: "PUA"
+            },
+            {
+                IVSCode: "E01EB",
+                IVDSetName: "PUA"
             }
         ]
     },
