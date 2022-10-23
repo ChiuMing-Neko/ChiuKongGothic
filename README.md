@@ -1,6 +1,13 @@
-# ChiuKong Gothic 秋空黑體 秋空黑体 秋空ゴシック体
+# ChiuKong Gothic 秋空󠄁黑體
 
-![logo](./images/logo.png)
+[![GitHub release](https://img.shields.io/github/release/ChiuMing-Neko/ChiuKongGothic?include_prereleases=&sort=semver)](https://github.com/ChiuMing-Neko/ChiuKongGothic/releases/)
+[![GitHub](https://img.shields.io/github/license/ChiuMing-Neko/ChiuKongGothic)](https://scripts.sil.org/ofl)
+[![stars - ChiuKongGothic](https://img.shields.io/github/stars/ChiuMing-Neko/ChiuKongGothic?style=social)](https://github.com/ChiuMing-Neko/ChiuKongGothic)
+
+![ChiuKongGothicLogo_Light](images/ChiuKongGothicLogo_Light.svg#gh-light-mode-only)
+![ChiuKongGothicLogo_Dark](images/ChiuKongGothicLogo_Dark.svg#gh-dark-mode-only)
+
+<sup><sub>**註：** 使用圖片展示「秋空󠄁黑體」這一名稱時，名稱中的「空」應爲如圖所示的「空󠄁」形（「⿱穴工」/穴從八形）而非「空󠄀」（「⿱宂工」/穴從儿形）形。 其對應的異體字選擇符碼位爲U+E0101或U+E0103。</sub></sup>
 
 ## 簡介
 
