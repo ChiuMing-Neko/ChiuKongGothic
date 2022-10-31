@@ -79,25 +79,28 @@ A Chinese language font family project derived from Source Han Sans and integrat
 
 	![IVS-IMEmethod](./images/IVS-IME.gif)
 	> *需要開啓「環境依存文字」功能*
+	
+#### 目前已支援的IVD字集（Unicode 15.0）
 
-#### 目前所支援的 IVD 字集
+##### 完整支援
 
-- Adobe-Japan1
-- KRName
-- 常用字範圍內的被使用的部分 Hanyo-Denshi（泛用電子）集所定義的字形
-- 常用字範圍內的被使用的部分 Moji-Joho（MJ 文字情報）集所定義的字形
-- 部分被使用的 MSARG（澳門特別行政區）集所定義的字形
-- 常用字範圍內未收錄於任何 IVD 字集但認爲亦可整合的字形（編碼區間：E01EA ~ E01EF）
-- 査詢具體已整合的字圖可使用[*秋空黑體異體字字圖檢索系統*](https://chiuming-neko.github.io/ChiuKongGothic/ivslookup.html) *(載入時間較長，主要爲 60MB 的字體文件，請耐心等待。)*
+- [Adobe-Japan1](https://www.unicode.org/ivd/data/2022-09-13/IVD_Charts_Adobe-Japan1.pdf)
+- [KRName](https://www.unicode.org/ivd/data/2022-09-13/IVD_Charts_KRName.pdf)
 
-#### 未來可能會支援的 IVD 字集
+##### 部分支援
 
-- 其他 Hanyo-Denshi（泛用電子）集所定義的字形
-- 其他 Moji-Joho（MJ 文字情報）集所定義的字形
-- 其他 MSARG（澳門特別行政區）集所定義的字形
-- 其他未收錄於任何 IVD 字集但認爲亦可整合的字形（編碼區間：E01EA ~ E01EF）
+- [Hanyo-Denshi](https://www.unicode.org/ivd/data/2022-09-13/IVD_Charts_Hanyo-Denshi.pdf)
+- [Moji-Joho](https://www.unicode.org/ivd/data/2022-09-13/IVD_Charts_Moji_Joho.pdf)
+- [MSARG](https://www.unicode.org/ivd/data/2022-09-13/IVD_Charts_MSARG.pdf)
 
-> 註：如以上計劃新增字集所定義的字形已和現有的字集重複（如部分 Hanyo-Denshi 與 Adobe-Japan1 的字形重複），將不重複編碼。常用字定義：位於[秋明通用漢字表](https://glyphwiki.org/wiki/Group:chiuming-neko_cm-chara-list)範圍內的漢字。
+##### 其他不屬於Unicode已註冊的異體字序列
+
+- 其他本專案認爲下理應整合的異體字字圖輪廓（標記爲"PUA"）
+
+#### 計劃於未來支援的IVD字集
+
+- [BabelStone Han](https://www.babelstone.co.uk/Fonts/BSH_IVS.html)
+<sub><sub>**註：** BabelStone Han不是已於Unicode註冊的IVD字集</sub></sub>
 
 ## 著作權及授權信息
 
@@ -115,14 +118,36 @@ A Chinese language font family project derived from Source Han Sans and integrat
 
 ## 鳴謝
 
-- [思源黑體](https://github.com/adobe-fonts/source-han-sans) by Adobe
-- [思源黑體 傳統](https://github.com/redchenjs/source-han-sans-classic) by [Jack Chen](https://github.com/redchenjs) 
-- [源音黑體](https://github.com/MoneMizuno/Genne-Gothic) by [Huán-Syuān](https://github.com/MoneMizuno)
-- [源樣黑體](https://github.com/ButTaiwan/genyog-font) by [But Ko](https://github.com/ButTaiwan)
-- [傳承字形部件檢校表](https://github.com/ichitenfont/inheritedglyphs) 以及其代表字體 [一點明體](https://github.com/ichitenfont/I.Ming) by [一點字坊](https://github.com/ichitenfont)
-- [滙文明朝体](https://zhuanlan.zhihu.com/p/344103391) by 特里王 
-- [字統網](http://zi.tools)
-- [康煕字典網上版](https://www.kangxizidian.com/)
-- [東京築地活版製造所の活字見本帖](http://www.asahi-net.or.jp/~sd5a-ucd/Tsukiji-5go-S11-Specimenbook.html)
+### 思源黑體
+
+目前秋空󠄁黑體所有字符部件來源都直接來自於思源黑體2.004版的筆畫分離源文件，卽本專案所有新增的字圖都是基於思源黑體2.004版直接修改而來，並未使用任何其他字體的字圖及部件或基於其他字體專案再修改。
+
+### 字形字樣參考資料
+
+- [Unicode異體字資料庫](https://www.unicode.org/ivd/)
+- [Unicode碼位表](https://unicode.org/charts/)
+- [表外漢字字体表](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kakuki/22/tosin03/index.html)
+- [GlyphWiki:仮想J字形のガイドライン](https://glyphwiki.org/wiki/GlyphWiki:仮想J字形のガイドライン)
 - [字形維基](https://glyphwiki.org/)
-- [NightFurySL2001 ](https://github.com/NightFurySL2001) 的技術指導
+- [文字情報基盤検索システム](https://moji.or.jp/mojikibansearch/basic) —— 文字情報技術促進協議会
+- [康熙字典網上版](https://www.kangxizidian.com/)
+- [Hong Kong Character Set Project (HKCS) 香港民間字集](https://github.com/hfhchan/hkcs), 含符合[《傳承字形檢校表》](https://github.com/ichitenfont/inheritedglyphs)推薦形體字形版及香港事實標準字形儷宋字形版 —— [Henry Chan](https://github.com/hfhchan)
+- [思源黑體](https://github.com/adobe-fonts/source-han-sans) —— Adobe
+- [台北黑體](https://sites.google.com/view/jtfoundry/) —— 翰󠄁字鑄造󠄄 JT Foundry
+
+#### 附錄：1.210版及之前的CL版默認字圖字形參考資料
+
+- [東京築地活版製造所の活字見本帖](http://www.asahi-net.or.jp/~sd5a-ucd/Tsukiji-5go-S11-Specimenbook.html) **註：** 主要參考資料，僅參考明體字形。
+- [滙文明朝体](https://zhuanlan.zhihu.com/p/344103391) —— 特里王
+- [傳承字形部件檢校表](https://github.com/ichitenfont/inheritedglyphs) —— [一點字坊](https://github.com/ichitenfont) **註：** 僅作字形額外參考資料，非完全依照製作。
+
+### 相關工具
+
+- [字統网](https://zi.tools/) —— [Yi Bai](https://github.com/yi-bai)
+- [字嗨！-漢字部件檢索](https://zi-hi.com/sp/uni/CJKSeeker) —— [But Ko](https://github.com/ButTaiwan)
+
+### 來源技術及技術指導
+
+- [Source Han Sans Classic](https://github.com/redchenjs/source-han-sans-classic) —— [Jack Chen](https://github.com/redchenjs)
+- [源音󠄁黑體](https://github.com/MoneMizuno/Genne-Gothic) —— [Huán-Syuān](https://github.com/MoneMizuno)
+- [NightFurySL2001](https://github.com/NightFurySL2001)
