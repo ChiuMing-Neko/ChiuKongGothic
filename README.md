@@ -102,6 +102,10 @@ A Chinese language font family project derived from Source Han Sans and integrat
 - [BabelStone Han](https://www.babelstone.co.uk/Fonts/BSH_IVS.html)
 <sub><sub>**註：** BabelStone Han不是已於Unicode註冊的IVD字集</sub></sub>
 
+## 下載地址
+
+[按此前往下載頁面](https://github.com/ChiuMing-Neko/ChiuKongGothic/releases)
+
 ## 著作權及授權信息
 
 依照 SIL Open Font License 1.1 授權許可發佈，您可以：
